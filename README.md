@@ -31,3 +31,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
 </span>
+
+<h2>Connect with me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/hazieldev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
